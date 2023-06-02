@@ -1,0 +1,78 @@
+.picsize {
+    width: 250px;
+    height: 200px;
+    border-radius: 20px;
+    border-style: unset;
+}
+
+.chapitres {
+    font-family: 'Futura';
+text-decoration: none; 
+margin: 7px;
+}
+
+.futurafont {
+    font-family: 'Futura';
+    font-size: 30px;
+}
+
+.equipage {
+    width: 250px;
+    height: 200px;
+    border-radius: 300px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;    
+
+}
+
+body {
+    background-color: #325B8D;
+    margin-right: 40px;
+    margin-left: 150px;
+    margin-top: 50px;
+}
+
+.moonlogo {
+    width:  100px;
+    height: 25px;
+}
+
+.socialicons {
+    width:  20px;
+    height: 20px;
+    float: bottom;
+
+}
+
+.MoonHeaderCard {
+    width:  425px;
+    height: 300px;
+    float: right;
+}
+
+.fontcolor {
+    font: ;
+}
+
+.login {
+    width:  30px;
+    height: 30px;
+    float: right;
+    margin: 5px;
+    margin-top: unset;
+}
+
+a, h1, p {
+    color: #FFFFFF;
+}
+
+.boldfont {
+    font-family:  'Futura';
+}
+
+div {
+    padding-left: 750px;
+}
+
+h1 {
+    font-size: 70px;
+}
